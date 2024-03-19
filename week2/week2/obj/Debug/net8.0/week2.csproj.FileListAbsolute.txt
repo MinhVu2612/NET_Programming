@@ -1,0 +1,14 @@
+C:\Users\HNU\Documents\20213091\week2\week2\bin\Debug\net8.0\week2.exe
+C:\Users\HNU\Documents\20213091\week2\week2\bin\Debug\net8.0\week2.deps.json
+C:\Users\HNU\Documents\20213091\week2\week2\bin\Debug\net8.0\week2.runtimeconfig.json
+C:\Users\HNU\Documents\20213091\week2\week2\bin\Debug\net8.0\week2.dll
+C:\Users\HNU\Documents\20213091\week2\week2\bin\Debug\net8.0\week2.pdb
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\week2.AssemblyInfoInputs.cache
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\week2.AssemblyInfo.cs
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\week2.csproj.CoreCompileInputs.cache
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\week2.dll
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\refint\week2.dll
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\week2.pdb
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\week2.genruntimeconfig.cache
+C:\Users\HNU\Documents\20213091\week2\week2\obj\Debug\net8.0\ref\week2.dll
