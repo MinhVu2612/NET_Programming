@@ -91,3 +91,24 @@ for (int i = 1; i <= 10; i++)
     }
     Console.WriteLine();
 }
+
+while (true)
+{
+    Console.WriteLine("숫자를 입력해주세요( 짝수를 입력해주세요");
+    int input1 = int.Parse(Console.ReadLine());
+
+    if (input1 % 2 == 0)
+    {
+        break;
+    }
+}
+
+for (int i = 1; i < 10; i++)
+{
+    if (i % 2 == 0)
+    {
+        continue;
+    }
+
+    Console.WriteLine(i);
+}
